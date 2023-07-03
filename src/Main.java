@@ -4,7 +4,6 @@ public class Metods {
         task1();
         task2();
 
-
     }
     static public void task1() {
         /**

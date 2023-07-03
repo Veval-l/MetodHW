@@ -34,14 +34,14 @@ public class Metods {
          */
         System.out.println("Задача 2");
 
-        private static void OS (int currentYear = LocalDate.now().getYear();) {
-            if (LocalDate == 0 && getYear == 2023) {
+        private static void OS (int currentYear = localDate.now().getYear();) {
+            if (localDate == 0 && getYear == 2023) {
                 System.out.println("установите версию приложения для iOS");
-            } if else (LocalDate == 1 && getYear == 2023) {
+            } else if (localDate == 1 && getYear == 2023) {
                 System.out.println("установите версию приложения для Android"); {
-                    if else (LocalDate == 0 && getYear < 2023)
+                    else if (localDate == 0 && getYear < 2023)
                     System.out.println("установите облегченную версию приложения для iOS");
-                } if else (LocalDate == 1 && getYear < 2023)
+                } else if (localDate == 1 && getYear < 2023)
                 System.out.println("установите облегченную версию приложения для Android");
             }
         }
